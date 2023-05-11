@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116189121802",
+    "project_id": "cet6-755ec",
+    "storage_bucket": "cet6-755ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116189121802:android:7a7796867a28a4c997fef3",
+        "android_client_info": {
+          "package_name": "com.example.cet6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116189121802-7o0895p41ifn9a5qnmpl4hmn2rejqnut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDchbSHjccWeD_MYXy2_q73Vmjft5sRgqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116189121802-7o0895p41ifn9a5qnmpl4hmn2rejqnut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
